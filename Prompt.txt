@@ -1,0 +1,19 @@
+Your task is to write a reasearch paper on the topic - "Secure Multimedia Transmission using cloud computing technology ", use the contents of the uploaded files below and prepare Your research paper . It should contain the following details -
+
+First section - Literature review . Read, Understand and prepare a detailed analysis of the contents mentioned in the uploaded files, list down the strengths and weaknesses that are either mentioned in the paper or can be identified in the papers.
+
+Section 2 - Prepare your approach and method of proposed work in secure multimedia transmission in cloud technology. You need to include new ideas and details on the proposed work.
+
+It should contain the following details -
+
+Proposed Work
+
+Conceptualisation
+
+Proof Of Concept
+
+Diagram representations and flowcharts, tabulations and illustrations
+
+Section 3 - Give a detailed analysis of the proposed work and ideas on how to incorporate AI / ML/ Deep-Learning cutting edge technologies to improve the solution. Give sample codes of implementation and plot graphs for analysis. Also give Steps of software engineering that will be followed from gathering requirements to deploying, including abstraction and algorithms. Give a detailed code of implemtation
+
+Remember that this is a research paper. Hence keep it exhaustively detailed and also formal. Representative diagrams and flowcharts are necessary. give an overleaf code of the Final research paper
